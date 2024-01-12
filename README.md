@@ -1,5 +1,7 @@
 # Crash Browser
 
+MASSIVE SKID
+
 Simple JS script that overloads the browser with a huge URL.
 
 ## The code
